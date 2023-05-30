@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap");
+.logo {
+  width: 130px;
+  height: 115px;
+}
+
+.color {
+  background-color: #ffc93c;
+}
+
+.letras {
+  color: #1e758d;
+}
+
+a {
+  font-family: "Passion One", cursive;
+}
+
+/*# sourceMappingURL=style.css.map */
